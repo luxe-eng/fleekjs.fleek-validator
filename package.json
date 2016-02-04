@@ -1,6 +1,6 @@
 {
   "name": "fleek-validator",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A validator for the fleek framework",
   "repository": "https://github.com/fleekjs/fleek-validator",
   "main": "lib/validator.js",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "co": "^4.5.4",
-    "fleek-parser": "git@github.com:luxe-eng/fleekjs.fleek-parser.git#v2.0.1",
+    "fleek-parser": "git@github.com:luxe-eng/fleekjs.fleek-parser.git#v2.0.2",
     "fs": "0.0.2",
     "genit": "^1.0.2",
     "is_js": "^0.7.3",
